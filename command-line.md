@@ -1,3 +1,3 @@
 Taks One) What is a Command Line?
 
-A Command Line is a program that allows you to give instructions directly to your computer. You can use it to navigate folders in your computer and create and edit files, in addition to many other tasks. You could just give these instructions by clicking on the appropriate file and folder image icons in the Windows screens, but the Command Line is much quicker as you can replace many clicks with a short command.
+A Command Line is a program that allows you to give instructions directly to your computer. You can use it to navigate folders in your computer and create and edit files, in addition to many other tasks. You could just give these instructions by clicking on buttons in the menu and windows, but the Command Line is much quicker as you can replace many clicks with a short command.
